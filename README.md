@@ -1,4 +1,3 @@
-````markdown
 # Obsidian VNC Container
 
 Run Obsidian inside a containerized XFCE desktop environment with browser access via noVNC.
