@@ -89,6 +89,12 @@ You must then configure Obsidian inside the container to use `/app/vault` or wha
 
 ---
 
+## Support
+
+Support is generally available, issues and improvement suggestions can be submitted, but will be addressed depending on availability and priority.
+
+---
+
 ## License
 
 MIT
